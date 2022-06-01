@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.gif-item {
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+.text-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+  margin-top: 42px;
+}
+
+.input-field {
+  width: 200px;
+  height: 40px;
+}
+
+.submit-btn {
+  height: 45px;
+}
